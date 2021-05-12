@@ -7,4 +7,5 @@ servidor, el cual debe interactuar con otro aplicativo cliente no tradicional. E
 aplicaciones y en dos clientes, creando un punto de comparación entre
 tecnología.
 
-# Documentacion 
+  -[Documentacion"](https://github.com/alexisbedoya/soap-Restfull/blob/main/SEMINARIO%20DE%20ACTUALIZACI%C3%93N%203.docx.pdf) 
+
